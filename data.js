@@ -8,11 +8,9 @@ window.DATA = {
  "course": "INF2501_ 6 - Nhập môn công nghệ số và AI",
  "avatar": "image/photo1.jpg",
  "hobbies": [
-  "Nghe nhạc",
-  "Đan len",
-  "Xem phim"
+  "🎼 sản xuất âm nhạc",
  ],
- "intro": "Mình là sinh viên năm hai ngành Sư phạm Âm nhạc. Mình thích nghe nhạc, đan len, xem phim và những điều nhẹ nhàng.",
+ "intro": "Mình là Trần Đức Sơn học nằm 2 ngành Sư phạm âm nhạc, mình thích làm sản xuất âm nhạc",
    "goals": [
     "Hoàn thành đủ sáu bài tập của học phần và hiểu rõ mình đang làm gì ở mỗi bài, thay vì làm cho xong.",
     "Biết tìm tài liệu đáng tin và hỏi AI đúng cách để dùng cho các môn chuyên ngành như hòa âm, lịch sử âm nhạc và phương pháp dạy học.",
@@ -256,7 +254,7 @@ window.DATA = {
   "lesson": "Nhóm hiểu rõ hơn cách khai thác AI tạo sinh như một công cụ hỗ trợ đắc lực trong dạy và học âm nhạc, đồng thời nhận thức được tầm quan trọng của việc kiểm tra, chọn lọc thông tin từ AI thay vì phụ thuộc hoàn toàn.",
   "hard": "Nhóm gặp khó khăn trong việc thống nhất ý tưởng ban đầu, sắp xếp lịch quay chung giữa 5 thành viên, phải quay lại một số cảnh chưa đạt yêu cầu và xử lý hậu kỳ video.",
   "next": "Nhóm sẽ chủ động trao đổi thống nhất kịch bản kỹ lưỡng ngay từ đầu, phân bổ lịch quay linh hoạt và hỗ trợ nhau chặt chẽ hơn trong khâu quay dựng, kiểm duyệt nội dung AI.",
-  "video": "https://www.youtube.com/embed/94239npGW24"
+  "video": "https://www.youtube.com/embed/N2XtCwZyzw8"
 },
   {
   "title": "Sử dụng AI có trách nhiệm trong học tập và nghiên cứu",

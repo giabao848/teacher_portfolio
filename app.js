@@ -26,8 +26,8 @@
       const hero = el("section", "hero"), L = el("div"), hi = el("p", "hi", "Xin chào, mình là"), arm = el("span", "metro");
       arm.appendChild(el("i", "arm")); hi.appendChild(arm);
       const cta = el("a", "cta", "Xem các dự án →"); cta.href = "du-an.html";
-      add(L, hi, el("h1", "", D.name), el("p", "role", D.major), add(el("div", "chips"), D.hobbies.map(h => el("span", "chip", "♪ " + h))), el("p", "lead", D.intro), cta);
-      const w = el("div", "idw"), c = el("div", "id"), b = el("div", "idb"), p = el("div", "idp"); p.appendChild(img(D.avatar, "Thêm " + D.avatar));
+      add(L, hi, el("h1", "", D.name), el("p", "role", D.major), add(el("div", "chips"), D.hobbies.map(h => el("span", "chip", h))), el("p", "lead", D.intro), cta);
+      const w = el("div", "idw"), c = el("div", "id"), b = el("div", "idb"), p = el("div", "idp"); p.appendChild(img(D.avatar, D.avatar));
       const dl = el("dl", "idl");
       [["Ngành", D.major], ["Trường", D.school], ["Lớp", D.cls], ["Học phần", D.course], ["MSSV", D.id], ["Sở thích", D.hobbies.join(", ")]].forEach(r => add(dl, add(el("div", "idr"), el("dt", "", r[0]), el("dd", "", r[1]))));
       add(c, el("div", "idh", "Thông tin cá nhân"), add(b, p, el("div", "idn", D.name)), dl, el("div", "bc"));
